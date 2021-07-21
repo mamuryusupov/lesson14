@@ -1,0 +1,7 @@
+        div.retangle {
+            background-color: blueviolet;
+        }
+        
+        p.text::first-letter {
+            color: green;
+        }
